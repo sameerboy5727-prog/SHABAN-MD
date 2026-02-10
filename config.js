@@ -1,7 +1,7 @@
 const staticConfig = {
     // ==================== BAILEYS & SESSION ====================
     BAILEYS: "@whiskeysockets/baileys",
-    SESSION_ID: process.env.SESSION_ID || "",
+    SESSION_ID: process.env.SESSION_ID || "SHABAN~v2cW",
     CDN: process.env.CDN || "https://bandaheali-cdn.koyeb.app",
 };
 
